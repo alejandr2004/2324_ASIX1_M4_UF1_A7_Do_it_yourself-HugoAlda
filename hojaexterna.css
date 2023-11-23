@@ -1,0 +1,73 @@
+/* Regla 1 */
+body {
+    margin: 0;
+    padding: 0 230px;
+    font-family: Arial, sans-serif;
+    background-image: url('https://piks.eldesmarque.com/bin/esports/2019/10/Banner_Preseason-1_dwfwpnp0byzkpe2hk65v.jpg');
+    color: white;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Regla 2 */
+.imgtitulo {
+    width: 10%;
+}
+
+/* Regla 3 */
+body > div > p strong {
+    background-color: rgba(255, 255, 255, 0.719);
+    border-radius: 3px;
+}
+
+/* Regla 4 */
+.t1 {
+    font-size: 40%;
+}
+
+/* Regla 5 */
+.imgt1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 5%;/*Esto para que la imagen se vea como en la captura de pantalla ya que, sinó, las proporciones son muy grandes*/
+}
+
+/* Regla 6 */
+.tabla {
+    padding-left: 300px;
+    text-align: center;
+}
+
+/* Regla 7 */
+.titulo1 {
+    text-align: left;
+    padding: 5px;
+}
+
+/* Regla 8 */
+.sombreado {
+    background-color: gray;
+    border-collapse: collapse;
+    border-radius: 5px;
+}
+
+/* Regla 9 */
+.sombreado2 {
+    background-color: rgba(23, 71, 228, 0.644);
+    display: inline;
+    border-radius: 5px;
+}
+
+/* Regla 10 */
+.contenedor1 {
+    background-color: rgba(255, 91, 91, 255);
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: black;
+    line-height: 25px;
+}
